@@ -21,5 +21,6 @@ STEPS
 # Run the chatbot
 
 We train the model using the command in the terminal- python train_chatbot.py
+
 Then to run the app, we run the second file - python chatgui.py
 
