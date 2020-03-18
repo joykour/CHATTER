@@ -17,3 +17,9 @@ STEPS
 3. Create training and testing data
 4. Build the model
 5. Predict the response
+
+# Run the chatbot
+
+We train the model using the command in the terminal- python train_chatbot.py
+Then to run the app, we run the second file - python chatgui.py
+
